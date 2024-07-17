@@ -6,7 +6,7 @@
   "author": "dissorial",
   "type": "module",
   "scripts": {
-    "dev": "next dev -p 32770",
+    "dev": "next dev -p 32773",
     "build": "next build",
     "start": "next start",
     "type-check": "tsc --noEmit",
